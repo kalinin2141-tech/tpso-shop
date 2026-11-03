@@ -1,0 +1,1 @@
+def pay(): pass
